@@ -33,6 +33,8 @@ import '@material/web/checkbox/checkbox.js';
 </label>
 ```
 
+## Docs
+
 ## Roadmap
 
 **Alpha** components are in-development and may have many frequent breaking
